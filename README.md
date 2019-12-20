@@ -1,6 +1,6 @@
 # ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png) Project 1: SAT VS ACT PARTICIPATION IN THE NORTHEAST
 
-# TEAM RESPONSIBILITIES:
+# Team Responsibilities
 
 My Team is Responsible for:
 - Implementing strategies to increase participation rates in low participating states
@@ -9,14 +9,14 @@ My Team is Responsible for:
 - EDA
 - working with Jupyter notebooks for development and reporting
 
-# PROBLEM STATMENT:
+# Problem Statement
 
 We want to propose to the ACT INC board different strategies that will increase the participation rates in the North East. We wanto use EDA to take a look at aggregate SAT and ACT participation rates from each state in the United States. Our team will identify different trends across reigons in America that helps us define our problem, low participating states. 
 
 - #### HOW CAN WE USE DATA FROM LOW PARTICIPATING STATES TO ESTABLISH A MARKETING STRATEGY TO INCREASE ACT PARTICIPATION?
 
 ---
-# EXECUTIVE SUMMARY:
+# Executive Summary
 
 Northeast participation rates for ACT has been on a drastic decline, while Sat Participation has increased over 25% in the last year. As the manager for marketing at ACT inc, I want to figure out why participation in the North East is low compared to a high participation in the SAT. Many different factors have an affect on the participation rates, such as state policy, student demographics, and geographical location. 
 
@@ -46,7 +46,7 @@ We can validate our data by comparing our data to the source, which are  2018 st
 
 ---
 
-# DATA DICTIONARY: WHAT ARE WE WORKING WITH? SAT VS ACT:
+# Data Dictionary
 
 |Feature|Type|Dataset|Description|
 |---|---|---|---|
@@ -69,21 +69,21 @@ We can validate our data by comparing our data to the source, which are  2018 st
 
 ---
 
-# FINDINGS:
+# Findings:
 
-- #### SAT PARTICIPATION HAS A HIGH INVERSE CORRELATION WITH ACT PARTICIPATION. 
--  #### NORTHEAST STATES TEND TO PREFER THE SAT OVER THE ACT
-- #### CT HAS THE HIGHEST ACT SCORES, BUT LOW PARTICIPATION RATE. 
-- #### COLORADO HAS HAS SEEN A MASSIVE DECREASE IN ACT PARTICIPATION
-- #### PARTICIPATION AND TOTAL SCORES HAVE A STRONG INVERSE RELATIONSHIP
-- #### STATE POPULATION HAS TO BE NORMALIZED TO COMPARE
+- #### Sat participation has a high inverse correlation with act participation. 
+-  #### Northeast states tend to prefer the sat over the act
+- #### Ct has the highest act scores, but low participation rate. 
+- #### Colorado has has seen a massive decrease in act participation
+- #### Participation and total scores have a strong inverse relationship
+- #### State population has to be normalized to compare
 
 
 ---
 
 # DEPLOYMENT OF STRATEGY:
 
-BY EXAMINING FURTHER DATA, SUCH AS POLITICAL DATA AND STUDENT DEMOGRAPHIC INFROMATION, WE CAN PREDICT PARTICIPATION RATES IN THOSE STATES. THROUGH MY EXPLORATION OF THE DATA, I WAS ABLE TO CONCLUDE THAT THE ACT PARTICIPATION RATES AND THE TOTAL SCORES ARE INVERSELY RELATED. WE CAN ASSUME THAT STUDENTS ARE OF HIGHER INCOME, DUE TO THE ACCESS OF SUPPLEMENTAL MATERIAL. NOW, WE MUST TAKE STEPS TO DEPLOY A STRATEGY THAT WILL TARGET LOW PARTICIPATION STATES. HERE ARE 3 SUGGESTIONS:
+By examining further data, such as political data and student demographic infromation, we can predict participation rates in those states. Through my exploration of the data, I was able to conclude that the act participation rates and the total scores are inversely related. We can assume that students are of higher income, due to the access of supplemental material. Further, we must take steps to deploy a strategy that will target low participation states. here are 3 suggestions:
 
 
 
@@ -95,7 +95,7 @@ BY EXAMINING FURTHER DATA, SUCH AS POLITICAL DATA AND STUDENT DEMOGRAPHIC INFROM
 
 
 
-# ADDITIONAL RESOURCES ON ACT PARTICIPATION PER STATE:
+# Additional Resources 
 
 https://www.chalkbeat.org/posts/co/2015/12/23/goodbye-act-hello-sat-a-significant-change-for-colorado-high-schoolers/
 
