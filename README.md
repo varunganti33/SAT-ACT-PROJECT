@@ -81,7 +81,7 @@ We can validate our data by comparing our data to the source, which are  2018 st
 
 ---
 
-# DEPLOYMENT OF STRATEGY:
+# Deployment of Strategy:
 
 By examining further data, such as political data and student demographic infromation, we can predict participation rates in those states. Through my exploration of the data, I was able to conclude that the act participation rates and the total scores are inversely related. We can assume that students are of higher income, due to the access of supplemental material. Further, we must take steps to deploy a strategy that will target low participation states. here are 3 suggestions:
 
